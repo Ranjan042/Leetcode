@@ -12,4 +12,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ranjan042/Dsa-Problems/tree/master/0069-sqrtx) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranjan042/Dsa-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Array
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranjan042/Dsa-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
