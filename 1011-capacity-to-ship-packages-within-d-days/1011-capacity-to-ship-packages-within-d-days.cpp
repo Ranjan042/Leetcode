@@ -6,12 +6,13 @@ public:
 
         for (int i = 0; i < weights.size(); i++) {
 
-            if(weights[i]>weight){
-                return INT_MAX-1;
+            if (weights[i] > weight) {
+                return INT_MAX - 1;
             }
-            currentWeight += weights[i];
 
-            if (currentWeight > weight) {
+            if (currentWeight + weights[i] <= weight) {
+                currentWeight += weights[i];
+            } else {
                 day++;
                 currentWeight = weights[i];
             }
