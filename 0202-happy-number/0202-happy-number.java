@@ -1,9 +1,9 @@
 class Solution {
     public boolean isHappy(int n) {
-                HashSet<Integer> set = new HashSet<>();
+              ArrayList<Integer> list = new ArrayList<>();
 
-        while (n != 1 && !set.contains(n)) {
-            set.add(n);
+        while (n != 1 && !list.contains(n)) {
+            list.add(n);
 
             int sum = 0;
             while (n > 0) {
@@ -16,6 +16,6 @@ class Solution {
         }
 
         return n == 1;
-    }
 
     }
+}
