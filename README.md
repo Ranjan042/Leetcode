@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranjan042/Dsa-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ranjan042/Dsa-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
