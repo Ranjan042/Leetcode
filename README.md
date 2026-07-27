@@ -55,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Ranjan042/Dsa-Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
