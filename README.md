@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Ranjan042/Dsa-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -64,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
