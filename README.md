@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranjan042/Dsa-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ranjan042/Dsa-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -66,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
