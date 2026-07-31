@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ranjan042/Dsa-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Ranjan042/Dsa-Problems/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranjan042/Dsa-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ranjan042/Dsa-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ranjan042/Dsa-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
