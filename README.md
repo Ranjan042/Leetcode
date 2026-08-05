@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Ranjan042/Dsa-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Ranjan042/Dsa-Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Ranjan042/Dsa-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ranjan042/Dsa-Problems/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ranjan042/Dsa-Problems/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
