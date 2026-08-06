@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ranjan042/Dsa-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0344-reverse-string) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ranjan042/Dsa-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Ranjan042/Dsa-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ranjan042/Dsa-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0387-first-unique-character-in-a-string) |
