@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ranjan042/Dsa-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjan042/Dsa-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjan042/Dsa-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ranjan042/Dsa-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjan042/Dsa-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
