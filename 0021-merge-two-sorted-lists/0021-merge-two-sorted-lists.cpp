@@ -39,8 +39,8 @@ public:
 
         while(list2){
             temp->next=list2;
+            temp=list2;
             list2=list2->next;
-            temp=temp->next;
         }
 
         return head->next;
