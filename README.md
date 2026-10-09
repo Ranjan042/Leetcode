@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ranjan042/Dsa-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ranjan042/Dsa-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranjan042/Dsa-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ranjan042/Dsa-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ranjan042/Dsa-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Ranjan042/Dsa-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Ranjan042/Dsa-Problems/tree/master/0696-count-binary-substrings) |
 ## String
