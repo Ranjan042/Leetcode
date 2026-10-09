@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ranjan042/Dsa-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Ranjan042/Dsa-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ranjan042/Dsa-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ranjan042/Dsa-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ranjan042/Dsa-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ranjan042/Dsa-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ranjan042/Dsa-Problems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ranjan042/Dsa-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ranjan042/Dsa-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ranjan042/Dsa-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ranjan042/Dsa-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ranjan042/Dsa-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ranjan042/Dsa-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ranjan042/Dsa-Problems/tree/master/0344-reverse-string) |
